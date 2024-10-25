@@ -1,4 +1,4 @@
-module github.com/malumar/slices
+module github.com/malumar/mslices
 
 go 1.22
 
